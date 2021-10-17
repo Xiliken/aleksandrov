@@ -1,0 +1,9 @@
+{
+  "name": "Captcha",
+  "namespace": "Botble\\Captcha\\",
+  "provider": "Botble\\Captcha\\Providers\\CaptchaServiceProvider",
+  "author": "Xiliken",
+  "url": "https://vk.com/xiliken",
+  "version": "5.8",
+  "description": "Captcha for higher security"
+}

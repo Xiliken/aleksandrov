@@ -1,0 +1,9 @@
+{
+    "name": "News",
+    "namespace": "Botble\\Newsletter\\",
+    "provider": "Botble\\Newsletter\\Providers\\NewsletterServiceProvider",
+    "author": "Xiliken",
+    "url": "https://vk.com/xiliken",
+    "version": "5.8",
+    "description": "News"
+}

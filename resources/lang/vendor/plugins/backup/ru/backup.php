@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'name' => 'Резервное копирование',
+    'backup_description' => 'Резервное копирование базы данных и папки загрузок.',
+    'create_backup_success' => 'Резервное копирование завершено!',
+    'delete_backup_success' => 'Успешно удалено!',
+    'restore_backup_success' => 'Успешное восстановление!',
+    'generate_btn' => 'Создание резервной копии',
+    'create' => 'Создать копию',
+    'restore' => 'Восстановление резервной копии',
+    'create_btn' => 'Создать',
+    'restore_btn' => 'Восстановить',
+    'restore_confirm_msg' => 'Вы действительно хотите восстановить эту копию?',
+    'download_uploads_folder' => 'Скачать резервную копию папки загрузок',
+    'download_database' => 'Скачать резервную копию базы данных',
+    'restore_tooltip' => 'Восстановить эту резервную копию',
+    'demo_alert' => 'Hi guest, if you see demo site is destroyed, please help me <a href=":link">go here</a> and restore demo site to the latest revision! Thank you so much!',
+    'menu_name' => 'Резервное копирование',
+    'size' => 'Размер',
+    'no_backups' => 'There is no backup now!',
+    'proc_open_disabled_error' => 'Function <strong>proc_open()</strong> has been disabled so the system cannot backup the database. Please contact your hosting provider to enable it.',
+    'database_backup_not_existed' => 'Backup database is not existed!',
+    'uploads_folder_backup_not_existed' => 'Папки для загрузки резервных копий не существует!',
+    'important_message1' => 'Это простая функция резервного копирования, это решение для вас, если на вашем сайте  < 1 ГБ данных, и его можно использовать для быстрого резервного копирования вашего сайта.',
+    'important_message2' => 'Если у вас более 1 ГБ изображений/файлов в локальном хранилище, вам следует использовать функцию резервного копирования вашего хостинга или VPS.',
+    'important_message3' => 'Для резервного копирования базы данных необходимо включить функцию <strong>proc_open()</strong> или <strong>system() </strong>. Обратитесь к своему хостинг-провайдеру, чтобы включить его, если он отключен.',
+];

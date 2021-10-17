@@ -1,0 +1,9 @@
+{
+    "name": "Real Estate",
+    "namespace": "Botble\\RealEstate\\",
+    "provider": "Botble\\RealEstate\\Providers\\RealEstateServiceProvider",
+    "author": "Xiliken",
+    "url": "http://vk.com/xiliken",
+    "version": "1.1",
+    "description": "Real estate supports with properties and some others"
+}

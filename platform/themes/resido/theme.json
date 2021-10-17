@@ -1,0 +1,14 @@
+{
+    "name": "Default",
+    "namespace": "Theme\\Resido\\",
+    "description": "Default Theme",
+    "author": "Xiliken",
+    "version": "1.10.0",
+    "required_plugins": [
+        "blog",
+        "contact",
+        "language",
+        "location",
+        "real-estate"
+    ]
+}

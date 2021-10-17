@@ -1,0 +1,9 @@
+{
+    "name": "Location",
+    "namespace": "Botble\\Location\\",
+    "provider": "Botble\\Location\\Providers\\LocationServiceProvider",
+    "author": "Xiliken",
+    "url": "https://vk.com/xiliken",
+    "version": "1.0",
+    "description": "The description for module location"
+}
